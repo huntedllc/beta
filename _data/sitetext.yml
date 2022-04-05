@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Career Seeking"
         desc: "The connection between you and your next big career move"
-        icon: fas fa-briefcase-arrow-right
+        icon: fas fa-regular fa-briefcase-arrow-right
       - title: "Consulting"
         desc: "In-depth discussions about industry specific job market trends."
         icon: fab fa-markdown
