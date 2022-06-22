@@ -111,7 +111,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Call (801)228-0698 or email jacob@huntedllc.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
