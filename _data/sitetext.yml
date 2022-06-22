@@ -39,34 +39,33 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "How we recruit"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Contact"
         year: ""
-        desc: "Reach out to prospective candidates and supply resumes for review."
+        desc: "Hunted will reach out to prospective candidates and supply resumes for review. At this point, Hunted will determine a candidates interest level and what they bring to the table for the firm."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Evaluation"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: ""
+        desc: "The hiring manager and Hunted will discuss the qualifications of each presented candidate, as well as concerns each party may have. Then we assist the hiring manager in setting interviews and callbacks, revisiting what was learned in the interview with the client and candidate and addressing concerns."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Offer Extended"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        year: ""
+        desc: "Hunted will serve as a liason between the two parties to determine what needs must be met for the highest possible chance at placement after extending an offer. We work in the best interests of both parties and seek compromise where there are disagreements."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Placement"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        year: ""
+        desc: "After placement, Hunted assists your new employee in a smooth transition out of their current role into your firm. We do this by aiding in resignation, ensuring that necessary information is correctly relayed to the new hire, and checking in with both the employee and hiring manager several times after placement to ensure a right fit."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Done"
 
   about:
     title: "About Us"
