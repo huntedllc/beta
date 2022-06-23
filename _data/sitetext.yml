@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Contact"
         year: ""
-        desc: "Hunted will reach out to prospective candidates and supply resumes for review. At this point, Hunted will determine a candidates interest level and what they bring to the table for the firm."
+        desc: "Hunted will reach out to prospective candidates and supply resumes for review. At this point, Hunted will determine a candidate's interest level and what they bring to the table for the firm."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Evaluation"
