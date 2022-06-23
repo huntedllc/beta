@@ -22,7 +22,7 @@ email      : jacob@huntedllc.com #this is also the email contact forms will go t
 description: "A recruiting agency."
 author     : Jacob Alderman
 logo:     #optional, defaults to site title
-  path: assets\img\clients\Hunted-r1-no-bg.jpg
+  path: assets\img\clients\Hunted.jpg
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
