@@ -70,7 +70,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "We are an agile, comptetitvely priced recruiting firm dedicated to finding the people that create the most impact"
+    body: "We are an agile, comptetitvely priced recruiting firm dedicated to finding the people that create the most impact in their role. We seek to alleviate the pains of job seekers and job posters alike by connecting great people to great opportunities."
     section: about
 
   team:
