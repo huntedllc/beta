@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-briefcase
       - title: "Consulting"
         desc: "In-depth discussions about industry specific job market trends."
-        icon: fas fa-clipboard-list-check
+        icon: fas fa-clipboard-list
 
   portfolio:
     title: "Positions"
