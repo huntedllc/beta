@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Hiring"
         desc: "Access to top talent that will make an excellent addition to your team."
-        icon: fas fa-people-group #find more at https://fontawesome.com/icons
+        icon: fas fa-users #find more at https://fontawesome.com/icons
       - title: "Career Seeking"
         desc: "The connection between you and your next big career move."
         icon: fas fa-briefcase
