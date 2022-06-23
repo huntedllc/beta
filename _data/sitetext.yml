@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Hiring"
-        desc: "Access to top talent that will make an excellent addition to your team"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Access to top talent that will make an excellent addition to your team."
+        icon: fas fa-people-group #find more at https://fontawesome.com/icons
       - title: "Career Seeking"
-        desc: "The connection between you and your next big career move"
+        desc: "The connection between you and your next big career move."
         icon: fas fa-briefcase
       - title: "Consulting"
         desc: "In-depth discussions about industry specific job market trends."
-        icon: fab fa-markdown
+        icon: fas fa-clipboard-list-check
 
   portfolio:
     title: "Positions"
