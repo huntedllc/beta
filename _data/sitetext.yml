@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title:
-    text: Headhunting,                    Done Right
+    text: Headhunting \\ Done Right
     button: Tell Me More
     buttonlink: "#services"
 
